@@ -12,7 +12,7 @@ set scrolloff=5
 set autochdir
 
 
-let mapleader=" "
+let mapleader = ' '
 
 noremap Q :q<CR>
 noremap S :w<CR>
